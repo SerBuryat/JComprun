@@ -49,10 +49,10 @@ String code = "public class Main {\n" +
                     "    }\n" +
                     "}";
 
-        File javaFile = new JCompiler().compile(code);
-        String output = JRunner.run(javaFile);
+File javaFile = new JCompiler().compile(code);
+String output = JRunner.run(javaFile);
 
-        System.out.println(output);
+System.out.println(output);
 ```
 In this case, you will see on yout output terminal:
  ```bash

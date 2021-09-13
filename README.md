@@ -2,7 +2,7 @@
 Compile and run provided java source code inside java code. 
 
 JComprun contatins 2 main functionality: 
- - compile provided java code;
+ - compile provided java code (create .java and .class files);
  - run java file;
  
  ## Versions

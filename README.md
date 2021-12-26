@@ -60,7 +60,7 @@ Main class compiled!
 ```
 Produces two files `Main.java` and `Main.class` and saves in directory: 
 
-- default (`/home/user`); 
+- default (`/home/user`) **!Default value for Linux. Windows or Mac need to set own directories!**; 
 - set via constructor
 ```java 
 
